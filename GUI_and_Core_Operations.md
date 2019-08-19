@@ -17,7 +17,7 @@
 
 知识点树：
 
-<img src="img/GUI_and_Core_Operations.png">
+![MapOfFunction](img/GUI_and_Core_Operations.png)
 
 ## 0. 应用库的加载
 
