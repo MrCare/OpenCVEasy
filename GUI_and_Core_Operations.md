@@ -17,7 +17,7 @@
 
 知识点树：
 
-<img src="img/GUI and Core Operations.png">
+<img src="img/GUI_and_Core_Operations.png">
 
 ## 0. 应用库的加载
 
@@ -108,7 +108,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_5_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_5_0.png)
 
 
 ## 2. 视频的读取，抓取，显示和写入
@@ -371,7 +371,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_13_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_13_0.png)
 
 
 ## 4. 鼠标绘图工具
@@ -438,7 +438,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_17_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_17_0.png)
 
 
 ### Example 2nd
@@ -499,7 +499,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_21_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_21_0.png)
 
 
 ## 5. 颜色条和调色板
@@ -581,7 +581,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_23_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_23_0.png)
 
 
 用 jupyter 的扩展插件可以形成更漂亮的交互界面：
@@ -668,7 +668,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_27_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_27_0.png)
 
 
 ### 分割（切片）并融合图像
@@ -738,7 +738,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_29_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_29_0.png)
 
 
 ## 7. 算术图像操作
@@ -793,7 +793,7 @@ plt.show()
 ```
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_31_0.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_31_0.png)
 
 
 ### 图像的位操作
@@ -885,7 +885,7 @@ plt.show()
     
 
 
-![png](GUI%20and%20Core%20Operations_files/GUI%20and%20Core%20Operations_33_1.png)
+![png](GUI_and_Core_Operations_files/GUI_and_Core_Operations_33_1.png)
 
 
 ## 8. 性能评价和优化技术
