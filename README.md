@@ -20,3 +20,6 @@
 
 - [tutorial](https://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)
 
+## Index
+
+- [GUI and Core Operations](GUI and Core Operations.md)
