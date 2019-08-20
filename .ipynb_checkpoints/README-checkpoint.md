@@ -22,4 +22,6 @@
 
 ## Index
 
-- ![GUI and Core Operations]('GUI and Core Operations.md')
+- [GUI and Core Operations](GUI_and_Core_Operations.md)
+
+- [Image Processing](Image_Processing.md)
