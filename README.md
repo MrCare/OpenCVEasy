@@ -25,3 +25,5 @@
 - [GUI and Core Operations](GUI_and_Core_Operations.md)
 
 - [Image Processing](Image_Processing.md)
+
+- [Image Thresholding Smoothing](Image_Thresholding_Smoothing.md)
