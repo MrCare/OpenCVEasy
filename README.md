@@ -27,3 +27,7 @@
 - [Image Processing](Image_Processing.md)
 
 - [Image Thresholding Smoothing](Image_Thresholding_Smoothing.md)
+
+- [Morphological Transformations ImgGradients](Morphological_Transformations_ImgGradients.md)
+
+- [Canny Edge Detection ImgPyramids](Canny_Edge_Detection_ImgPyramids.md)
